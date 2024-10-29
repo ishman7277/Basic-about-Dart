@@ -57,4 +57,7 @@ void main() {
   print(list);
 // print particular element.
   print(list[3]);
+  List lt = [2];
+  lt.remove(2);
+  print(lt);
 }
