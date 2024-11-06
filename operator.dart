@@ -69,6 +69,6 @@ void main() {
   var c = (age > 18) ? "eligilbe" : "not eligible";
   print(c);
 // Use of AS.
-  var str = "Manish" as String;
+  var str = "Manish";
   print(str.runtimeType);
 }
